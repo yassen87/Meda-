@@ -1,0 +1,511 @@
+[Wed May  6 17:07:59 2026] PHP 8.0.30 Development Server (http://localhost:8000) started
+[Wed May  6 17:08:00 2026] [::1]:50303 Accepted
+[Wed May  6 17:08:01 2026] PHP Warning:  Constant MEDAL_DB_DSN already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 7
+[Wed May  6 17:08:01 2026] PHP Warning:  Constant MEDAL_DB_USER already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 8
+[Wed May  6 17:08:01 2026] PHP Warning:  Constant MEDAL_DB_PASS already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 9
+[Wed May  6 17:08:01 2026] PHP Fatal error:  Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:01 2026] [::1]:50303 [200]: GET / - Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:01 2026] [::1]:50303 Closing
+[Wed May  6 17:08:01 2026] [::1]:50305 Accepted
+[Wed May  6 17:08:01 2026] [::1]:50305 [404]: GET /favicon.ico - No such file or directory
+[Wed May  6 17:08:01 2026] [::1]:50305 Closing
+[Wed May  6 17:08:26 2026] [::1]:50313 Accepted
+[Wed May  6 17:08:26 2026] PHP Warning:  Constant MEDAL_DB_DSN already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 7
+[Wed May  6 17:08:26 2026] PHP Warning:  Constant MEDAL_DB_USER already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 8
+[Wed May  6 17:08:26 2026] PHP Warning:  Constant MEDAL_DB_PASS already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 9
+[Wed May  6 17:08:26 2026] PHP Fatal error:  Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:26 2026] [::1]:50313 [200]: GET / - Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:26 2026] [::1]:50313 Closing
+[Wed May  6 17:08:37 2026] [::1]:50317 Accepted
+[Wed May  6 17:08:37 2026] PHP Warning:  Constant MEDAL_DB_DSN already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 7
+[Wed May  6 17:08:37 2026] PHP Warning:  Constant MEDAL_DB_USER already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 8
+[Wed May  6 17:08:37 2026] PHP Warning:  Constant MEDAL_DB_PASS already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 9
+[Wed May  6 17:08:37 2026] PHP Fatal error:  Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:37 2026] [::1]:50317 [200]: GET / - Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:37 2026] [::1]:50317 Closing
+[Wed May  6 17:08:38 2026] [::1]:50318 Accepted
+[Wed May  6 17:08:38 2026] PHP Warning:  Constant MEDAL_DB_DSN already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 7
+[Wed May  6 17:08:38 2026] PHP Warning:  Constant MEDAL_DB_USER already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 8
+[Wed May  6 17:08:38 2026] PHP Warning:  Constant MEDAL_DB_PASS already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 9
+[Wed May  6 17:08:38 2026] PHP Fatal error:  Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:38 2026] [::1]:50318 [200]: GET / - Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:38 2026] [::1]:50318 Closing
+[Wed May  6 17:08:50 2026] [::1]:50324 Accepted
+[Wed May  6 17:08:51 2026] PHP Warning:  Constant MEDAL_DB_DSN already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 7
+[Wed May  6 17:08:51 2026] PHP Warning:  Constant MEDAL_DB_USER already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 8
+[Wed May  6 17:08:51 2026] PHP Warning:  Constant MEDAL_DB_PASS already defined in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.hostinger.php on line 9
+[Wed May  6 17:08:51 2026] PHP Fatal error:  Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:51 2026] [::1]:50324 [200]: GET / - Cannot redeclare medal_pdo() (previously declared in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\db.php:35) in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\config_hostinger.php on line 39
+[Wed May  6 17:08:51 2026] [::1]:50324 Closing
+[Wed May  6 17:10:50 2026] [::1]:50346 Accepted
+[Wed May  6 17:10:50 2026] [::1]:50346 [200]: GET /
+[Wed May  6 17:10:50 2026] [::1]:50346 Closing
+[Wed May  6 17:10:50 2026] [::1]:50348 Accepted
+[Wed May  6 17:10:50 2026] [::1]:50349 Accepted
+[Wed May  6 17:10:50 2026] [::1]:50350 Accepted
+[Wed May  6 17:10:50 2026] [::1]:50351 Accepted
+[Wed May  6 17:10:50 2026] [::1]:50348 [200]: GET /assets/css/style.css?v=1778076650
+[Wed May  6 17:10:50 2026] [::1]:50350 [200]: GET /assets/img/logo.png
+[Wed May  6 17:10:50 2026] [::1]:50348 Closing
+[Wed May  6 17:10:50 2026] [::1]:50350 Closing
+[Wed May  6 17:10:50 2026] [::1]:50351 [200]: GET /assets/js/main.js
+[Wed May  6 17:10:50 2026] [::1]:50351 Closing
+[Wed May  6 17:10:50 2026] [::1]:50349 [200]: GET /assets/css/theme-daylight.css
+[Wed May  6 17:10:50 2026] [::1]:50349 Closing
+[Wed May  6 17:10:51 2026] [::1]:50356 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50356 [200]: GET /assets/uploads/img_69f1c54a595867.30417979.jpg
+[Wed May  6 17:10:51 2026] [::1]:50356 Closing
+[Wed May  6 17:10:51 2026] [::1]:50357 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50358 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50357 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 17:10:51 2026] [::1]:50357 Closing
+[Wed May  6 17:10:51 2026] [::1]:50359 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50358 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 17:10:51 2026] [::1]:50358 Closing
+[Wed May  6 17:10:51 2026] [::1]:50359 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 17:10:51 2026] [::1]:50359 Closing
+[Wed May  6 17:10:51 2026] [::1]:50360 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50361 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50360 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 17:10:51 2026] [::1]:50360 Closing
+[Wed May  6 17:10:51 2026] [::1]:50361 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 17:10:51 2026] [::1]:50361 Closing
+[Wed May  6 17:10:51 2026] [::1]:50362 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50362 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 17:10:51 2026] [::1]:50362 Closing
+[Wed May  6 17:10:51 2026] [::1]:50363 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50363 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 17:10:51 2026] [::1]:50363 Closing
+[Wed May  6 17:10:51 2026] [::1]:50364 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50364 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 17:10:51 2026] [::1]:50364 Closing
+[Wed May  6 17:10:51 2026] [::1]:50366 Accepted
+[Wed May  6 17:10:51 2026] [::1]:50366 [404]: GET /assets/uploads/undefined - No such file or directory
+[Wed May  6 17:10:51 2026] [::1]:50366 Closing
+[Wed May  6 17:10:59 2026] [::1]:50370 Accepted
+[Wed May  6 17:10:59 2026] [::1]:50370 [200]: GET /products.php?lang=ar
+[Wed May  6 17:10:59 2026] [::1]:50370 Closing
+[Wed May  6 17:11:00 2026] [::1]:50372 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50372 [200]: GET /assets/css/style.css?v=1778076659
+[Wed May  6 17:11:00 2026] [::1]:50372 Closing
+[Wed May  6 17:11:00 2026] [::1]:50373 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50374 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50373 [200]: GET /assets/css/theme-daylight.css
+[Wed May  6 17:11:00 2026] [::1]:50373 Closing
+[Wed May  6 17:11:00 2026] [::1]:50374 [200]: GET /assets/img/logo.png
+[Wed May  6 17:11:00 2026] [::1]:50374 Closing
+[Wed May  6 17:11:00 2026] [::1]:50375 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50375 [200]: GET /assets/js/main.js
+[Wed May  6 17:11:00 2026] [::1]:50375 Closing
+[Wed May  6 17:11:00 2026] [::1]:50376 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50376 [404]: GET /assets/uploads/undefined - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50376 Closing
+[Wed May  6 17:11:00 2026] [::1]:50377 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50378 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50379 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50380 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50381 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50382 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50377 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 17:11:00 2026] [::1]:50377 Closing
+[Wed May  6 17:11:00 2026] [::1]:50378 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 17:11:00 2026] [::1]:50378 Closing
+[Wed May  6 17:11:00 2026] [::1]:50380 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50380 Closing
+[Wed May  6 17:11:00 2026] [::1]:50382 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50382 Closing
+[Wed May  6 17:11:00 2026] [::1]:50383 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50383 [404]: GET /assets/img/cuir-royal.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50383 Closing
+[Wed May  6 17:11:00 2026] [::1]:50384 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50385 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50386 Accepted
+[Wed May  6 17:11:00 2026] [::1]:50379 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 17:11:00 2026] [::1]:50381 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50379 Closing
+[Wed May  6 17:11:00 2026] [::1]:50381 Closing
+[Wed May  6 17:11:00 2026] [::1]:50386 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50384 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50386 Closing
+[Wed May  6 17:11:00 2026] [::1]:50384 Closing
+[Wed May  6 17:11:00 2026] [::1]:50385 [404]: GET /assets/img/khinat-royal-blend.jpg - No such file or directory
+[Wed May  6 17:11:00 2026] [::1]:50385 Closing
+[Wed May  6 17:11:11 2026] [::1]:50389 Accepted
+[Wed May  6 17:11:11 2026] [::1]:50389 [200]: GET /?lang=ar/assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 17:11:11 2026] [::1]:50389 Closing
+[Wed May  6 17:47:20 2026] [::1]:51104 Accepted
+[Wed May  6 17:47:20 2026] PHP Parse error:  syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 17:47:20 2026] [::1]:51104 [200]: GET /products.php?lang=ar - syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 17:47:20 2026] [::1]:51104 Closing
+[Wed May  6 17:47:21 2026] [::1]:51109 Accepted
+[Wed May  6 17:47:21 2026] [::1]:51109 [404]: GET /favicon.ico - No such file or directory
+[Wed May  6 17:47:21 2026] [::1]:51109 Closing
+[Wed May  6 18:56:29 2026] [::1]:62863 Accepted
+[Wed May  6 18:56:29 2026] PHP Parse error:  syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 18:56:29 2026] [::1]:62863 [200]: GET /products.php?lang=ar - syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 18:56:29 2026] [::1]:62863 Closing
+[Wed May  6 18:56:29 2026] [::1]:62864 Accepted
+[Wed May  6 18:56:29 2026] [::1]:62864 [404]: GET /favicon.ico - No such file or directory
+[Wed May  6 18:56:29 2026] [::1]:62864 Closing
+[Wed May  6 18:56:30 2026] [::1]:62865 Accepted
+[Wed May  6 18:56:30 2026] PHP Parse error:  syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 18:56:30 2026] [::1]:62865 [200]: GET /products.php?lang=ar - syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 18:56:30 2026] [::1]:62865 Closing
+[Wed May  6 18:56:32 2026] [::1]:62868 Accepted
+[Wed May  6 18:56:32 2026] PHP Parse error:  syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 18:56:32 2026] [::1]:62868 [200]: GET /products.php?lang=ar - syntax error, unexpected token ",", expecting ";" in C:\Users\Hp\Downloads\Meda-20260415T135732Z-3-001\Meda\includes\translations.php on line 842
+[Wed May  6 18:56:32 2026] [::1]:62868 Closing
+[Wed May  6 18:57:54 2026] [::1]:62899 Accepted
+[Wed May  6 18:57:54 2026] [::1]:62899 [200]: GET /products.php?lang=ar
+[Wed May  6 18:57:54 2026] [::1]:62899 Closing
+[Wed May  6 18:57:55 2026] [::1]:62901 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62902 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62903 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62904 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62901 [200]: GET /assets/css/style.css?v=1778083074
+[Wed May  6 18:57:55 2026] [::1]:62902 [200]: GET /assets/css/theme-daylight.css
+[Wed May  6 18:57:55 2026] [::1]:62904 [200]: GET /assets/js/main.js
+[Wed May  6 18:57:55 2026] [::1]:62901 Closing
+[Wed May  6 18:57:55 2026] [::1]:62903 [200]: GET /assets/img/logo.png
+[Wed May  6 18:57:55 2026] [::1]:62902 Closing
+[Wed May  6 18:57:55 2026] [::1]:62904 Closing
+[Wed May  6 18:57:55 2026] [::1]:62903 Closing
+[Wed May  6 18:57:55 2026] [::1]:62907 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62907 [404]: GET /assets/uploads/undefined - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62907 Closing
+[Wed May  6 18:57:55 2026] [::1]:62908 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62908 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 18:57:55 2026] [::1]:62908 Closing
+[Wed May  6 18:57:55 2026] [::1]:62909 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62910 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62911 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62911 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62910 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 18:57:55 2026] [::1]:62911 Closing
+[Wed May  6 18:57:55 2026] [::1]:62912 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62909 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 18:57:55 2026] [::1]:62913 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62912 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62914 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62913 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62910 Closing
+[Wed May  6 18:57:55 2026] [::1]:62912 Closing
+[Wed May  6 18:57:55 2026] [::1]:62914 [404]: GET /assets/img/cuir-royal.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62909 Closing
+[Wed May  6 18:57:55 2026] [::1]:62913 Closing
+[Wed May  6 18:57:55 2026] [::1]:62914 Closing
+[Wed May  6 18:57:55 2026] [::1]:62915 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62916 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62915 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62916 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62915 Closing
+[Wed May  6 18:57:55 2026] [::1]:62916 Closing
+[Wed May  6 18:57:55 2026] [::1]:62917 Accepted
+[Wed May  6 18:57:55 2026] [::1]:62917 [404]: GET /assets/img/khinat-royal-blend.jpg - No such file or directory
+[Wed May  6 18:57:55 2026] [::1]:62917 Closing
+[Wed May  6 19:03:45 2026] [::1]:62982 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62982 [200]: GET /products.php?lang=ar
+[Wed May  6 19:03:45 2026] [::1]:62982 Closing
+[Wed May  6 19:03:45 2026] [::1]:62984 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62985 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62986 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62987 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62984 [200]: GET /assets/css/style.css?v=1778083425
+[Wed May  6 19:03:45 2026] [::1]:62984 Closing
+[Wed May  6 19:03:45 2026] [::1]:62985 [200]: GET /assets/css/theme-daylight.css
+[Wed May  6 19:03:45 2026] [::1]:62985 Closing
+[Wed May  6 19:03:45 2026] [::1]:62986 [200]: GET /assets/img/logo.png
+[Wed May  6 19:03:45 2026] [::1]:62986 Closing
+[Wed May  6 19:03:45 2026] [::1]:62987 [200]: GET /assets/js/main.js
+[Wed May  6 19:03:45 2026] [::1]:62987 Closing
+[Wed May  6 19:03:45 2026] [::1]:62989 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62989 [404]: GET /assets/uploads/undefined - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62989 Closing
+[Wed May  6 19:03:45 2026] [::1]:62990 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62990 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 19:03:45 2026] [::1]:62990 Closing
+[Wed May  6 19:03:45 2026] [::1]:62991 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62992 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62993 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62995 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62996 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62991 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:03:45 2026] [::1]:62992 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 19:03:45 2026] [::1]:62993 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62995 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62993 Closing
+[Wed May  6 19:03:45 2026] [::1]:62991 Closing
+[Wed May  6 19:03:45 2026] [::1]:62995 Closing
+[Wed May  6 19:03:45 2026] [::1]:62992 Closing
+[Wed May  6 19:03:45 2026] [::1]:62997 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62998 Accepted
+[Wed May  6 19:03:45 2026] [::1]:62999 Accepted
+[Wed May  6 19:03:45 2026] [::1]:63000 Accepted
+[Wed May  6 19:03:45 2026] [::1]:63000 [404]: GET /assets/img/khinat-royal-blend.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62998 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:63000 Closing
+[Wed May  6 19:03:45 2026] [::1]:62998 Closing
+[Wed May  6 19:03:45 2026] [::1]:62999 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62999 Closing
+[Wed May  6 19:03:45 2026] [::1]:62997 [404]: GET /assets/img/cuir-royal.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62997 Closing
+[Wed May  6 19:03:45 2026] [::1]:62996 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 19:03:45 2026] [::1]:62996 Closing
+[Wed May  6 19:04:11 2026] [::1]:63003 Accepted
+[Wed May  6 19:04:11 2026] [::1]:63003 [302]: GET /admin
+[Wed May  6 19:04:11 2026] [::1]:63003 Closing
+[Wed May  6 19:04:11 2026] [::1]:63005 Accepted
+[Wed May  6 19:04:11 2026] [::1]:63005 [200]: GET /admin/login.php
+[Wed May  6 19:04:11 2026] [::1]:63005 Closing
+[Wed May  6 19:04:11 2026] [::1]:63007 Accepted
+[Wed May  6 19:04:11 2026] [::1]:63007 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:11 2026] [::1]:63007 Closing
+[Wed May  6 19:04:11 2026] [::1]:63008 Accepted
+[Wed May  6 19:04:11 2026] [::1]:63008 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:11 2026] [::1]:63008 Closing
+[Wed May  6 19:04:16 2026] [::1]:63015 Accepted
+[Wed May  6 19:04:16 2026] [::1]:63015 [302]: POST /admin/login.php
+[Wed May  6 19:04:16 2026] [::1]:63015 Closing
+[Wed May  6 19:04:16 2026] [::1]:63017 Accepted
+[Wed May  6 19:04:16 2026] [::1]:63017 [200]: GET /admin/index.php
+[Wed May  6 19:04:16 2026] [::1]:63017 Closing
+[Wed May  6 19:04:16 2026] [::1]:63019 Accepted
+[Wed May  6 19:04:16 2026] [::1]:63020 Accepted
+[Wed May  6 19:04:16 2026] [::1]:63019 [200]: GET /assets/img/logo.png
+[Wed May  6 19:04:16 2026] [::1]:63019 Closing
+[Wed May  6 19:04:16 2026] [::1]:63020 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:16 2026] [::1]:63020 Closing
+[Wed May  6 19:04:17 2026] [::1]:63021 Accepted
+[Wed May  6 19:04:17 2026] [::1]:63021 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:17 2026] [::1]:63021 Closing
+[Wed May  6 19:04:34 2026] [::1]:63029 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63029 [200]: GET /admin/products.php
+[Wed May  6 19:04:35 2026] [::1]:63029 Closing
+[Wed May  6 19:04:35 2026] [::1]:63031 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63032 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63031 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:35 2026] [::1]:63031 Closing
+[Wed May  6 19:04:35 2026] [::1]:63032 [200]: GET /assets/img/logo.png
+[Wed May  6 19:04:35 2026] [::1]:63032 Closing
+[Wed May  6 19:04:35 2026] [::1]:63033 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63033 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:35 2026] [::1]:63033 Closing
+[Wed May  6 19:04:35 2026] [::1]:63034 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63035 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63034 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 19:04:35 2026] [::1]:63034 Closing
+[Wed May  6 19:04:35 2026] [::1]:63035 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:04:35 2026] [::1]:63036 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63035 Closing
+[Wed May  6 19:04:35 2026] [::1]:63036 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 19:04:35 2026] [::1]:63036 Closing
+[Wed May  6 19:04:35 2026] [::1]:63037 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63038 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63038 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63037 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63038 Closing
+[Wed May  6 19:04:35 2026] [::1]:63037 Closing
+[Wed May  6 19:04:35 2026] [::1]:63039 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63039 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63039 Closing
+[Wed May  6 19:04:35 2026] [::1]:63040 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63040 [404]: GET /assets/img/cuir-royal.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63040 Closing
+[Wed May  6 19:04:35 2026] [::1]:63041 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63042 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63043 Accepted
+[Wed May  6 19:04:35 2026] [::1]:63042 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63042 Closing
+[Wed May  6 19:04:35 2026] [::1]:63041 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63041 Closing
+[Wed May  6 19:04:35 2026] [::1]:63043 [404]: GET /assets/img/khinat-royal-blend.jpg - No such file or directory
+[Wed May  6 19:04:35 2026] [::1]:63043 Closing
+[Wed May  6 19:04:42 2026] [::1]:63044 Accepted
+[Wed May  6 19:04:42 2026] [::1]:63044 [200]: GET /admin/offers.php
+[Wed May  6 19:04:42 2026] [::1]:63044 Closing
+[Wed May  6 19:04:42 2026] [::1]:63046 Accepted
+[Wed May  6 19:04:42 2026] [::1]:63047 Accepted
+[Wed May  6 19:04:42 2026] [::1]:63048 Accepted
+[Wed May  6 19:04:42 2026] [::1]:63046 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:42 2026] [::1]:63047 [200]: GET /assets/img/logo.png
+[Wed May  6 19:04:42 2026] [::1]:63048 [200]: GET /assets/uploads/img_69f1c54a595867.30417979.jpg
+[Wed May  6 19:04:42 2026] [::1]:63046 Closing
+[Wed May  6 19:04:42 2026] [::1]:63047 Closing
+[Wed May  6 19:04:42 2026] [::1]:63048 Closing
+[Wed May  6 19:04:42 2026] [::1]:63049 Accepted
+[Wed May  6 19:04:42 2026] [::1]:63049 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:42 2026] [::1]:63049 Closing
+[Wed May  6 19:04:46 2026] [::1]:63051 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63051 [200]: GET /admin/products.php
+[Wed May  6 19:04:46 2026] [::1]:63051 Closing
+[Wed May  6 19:04:46 2026] [::1]:63053 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63053 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:46 2026] [::1]:63054 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63053 Closing
+[Wed May  6 19:04:46 2026] [::1]:63054 [200]: GET /assets/img/logo.png
+[Wed May  6 19:04:46 2026] [::1]:63054 Closing
+[Wed May  6 19:04:46 2026] [::1]:63055 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63055 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:46 2026] [::1]:63055 Closing
+[Wed May  6 19:04:46 2026] [::1]:63056 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63057 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63058 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63059 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63060 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63061 Accepted
+[Wed May  6 19:04:46 2026] [::1]:63060 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 19:04:46 2026] [::1]:63059 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:04:46 2026] [::1]:63058 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 19:04:46 2026] [::1]:63057 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 19:04:46 2026] [::1]:63060 Closing
+[Wed May  6 19:04:46 2026] [::1]:63059 Closing
+[Wed May  6 19:04:46 2026] [::1]:63057 Closing
+[Wed May  6 19:04:46 2026] [::1]:63058 Closing
+[Wed May  6 19:04:46 2026] [::1]:63056 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 19:04:46 2026] [::1]:63056 Closing
+[Wed May  6 19:04:46 2026] [::1]:63061 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 19:04:46 2026] [::1]:63061 Closing
+[Wed May  6 19:04:47 2026] [::1]:63062 Accepted
+[Wed May  6 19:04:47 2026] [::1]:63063 Accepted
+[Wed May  6 19:04:47 2026] [::1]:63064 Accepted
+[Wed May  6 19:04:47 2026] [::1]:63065 Accepted
+[Wed May  6 19:04:47 2026] [::1]:63062 [404]: GET /assets/img/cuir-royal.jpg - No such file or directory
+[Wed May  6 19:04:47 2026] [::1]:63062 Closing
+[Wed May  6 19:04:47 2026] [::1]:63063 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 19:04:47 2026] [::1]:63065 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 19:04:47 2026] [::1]:63063 Closing
+[Wed May  6 19:04:47 2026] [::1]:63065 Closing
+[Wed May  6 19:04:47 2026] [::1]:63064 [404]: GET /assets/img/khinat-royal-blend.jpg - No such file or directory
+[Wed May  6 19:04:47 2026] [::1]:63064 Closing
+[Wed May  6 19:04:50 2026] [::1]:63066 Accepted
+[Wed May  6 19:04:50 2026] [::1]:63066 [200]: GET /admin/product_edit.php?id=1
+[Wed May  6 19:04:50 2026] [::1]:63066 Closing
+[Wed May  6 19:04:50 2026] [::1]:63068 Accepted
+[Wed May  6 19:04:50 2026] [::1]:63069 Accepted
+[Wed May  6 19:04:50 2026] [::1]:63068 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:50 2026] [::1]:63068 Closing
+[Wed May  6 19:04:50 2026] [::1]:63069 [200]: GET /assets/img/logo.png
+[Wed May  6 19:04:50 2026] [::1]:63069 Closing
+[Wed May  6 19:04:50 2026] [::1]:63070 Accepted
+[Wed May  6 19:04:50 2026] [::1]:63070 [200]: GET /assets/js/image-upload.js?v=1.0
+[Wed May  6 19:04:50 2026] [::1]:63071 Accepted
+[Wed May  6 19:04:50 2026] [::1]:63070 Closing
+[Wed May  6 19:04:50 2026] [::1]:63071 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:50 2026] [::1]:63071 Closing
+[Wed May  6 19:04:50 2026] [::1]:63072 Accepted
+[Wed May  6 19:04:50 2026] [::1]:63072 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:04:50 2026] [::1]:63072 Closing
+[Wed May  6 19:04:56 2026] [::1]:63073 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63073 [302]: POST /admin/product_save.php
+[Wed May  6 19:04:56 2026] [::1]:63073 Closing
+[Wed May  6 19:04:56 2026] [::1]:63075 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63075 [200]: GET /admin/product_edit.php?id=1
+[Wed May  6 19:04:56 2026] [::1]:63075 Closing
+[Wed May  6 19:04:56 2026] [::1]:63077 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63078 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63077 [200]: GET /assets/css/admin.css?v=1.1
+[Wed May  6 19:04:56 2026] [::1]:63078 [200]: GET /assets/img/logo.png
+[Wed May  6 19:04:56 2026] [::1]:63077 Closing
+[Wed May  6 19:04:56 2026] [::1]:63078 Closing
+[Wed May  6 19:04:56 2026] [::1]:63079 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63079 [200]: GET /assets/js/admin-theme.js?v=1.1
+[Wed May  6 19:04:56 2026] [::1]:63079 Closing
+[Wed May  6 19:04:56 2026] [::1]:63080 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63081 Accepted
+[Wed May  6 19:04:56 2026] [::1]:63080 [200]: GET /assets/js/image-upload.js?v=1.0
+[Wed May  6 19:04:56 2026] [::1]:63080 Closing
+[Wed May  6 19:04:56 2026] [::1]:63081 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:04:56 2026] [::1]:63081 Closing
+[Wed May  6 19:05:29 2026] [::1]:63083 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63083 [200]: GET /index.php
+[Wed May  6 19:05:29 2026] [::1]:63083 Closing
+[Wed May  6 19:05:29 2026] [::1]:63085 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63085 [200]: GET /assets/css/style.css?v=1778083529
+[Wed May  6 19:05:29 2026] [::1]:63085 Closing
+[Wed May  6 19:05:29 2026] [::1]:63086 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63087 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63088 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63086 [200]: GET /assets/css/theme-daylight.css
+[Wed May  6 19:05:29 2026] [::1]:63087 [200]: GET /assets/img/logo.png
+[Wed May  6 19:05:29 2026] [::1]:63088 [200]: GET /assets/js/main.js
+[Wed May  6 19:05:29 2026] [::1]:63086 Closing
+[Wed May  6 19:05:29 2026] [::1]:63087 Closing
+[Wed May  6 19:05:29 2026] [::1]:63088 Closing
+[Wed May  6 19:05:29 2026] [::1]:63089 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63089 [200]: GET /assets/uploads/img_69f1c54a595867.30417979.jpg
+[Wed May  6 19:05:29 2026] [::1]:63089 Closing
+[Wed May  6 19:05:29 2026] [::1]:63090 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63091 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63090 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 19:05:29 2026] [::1]:63090 Closing
+[Wed May  6 19:05:29 2026] [::1]:63091 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:05:29 2026] [::1]:63091 Closing
+[Wed May  6 19:05:29 2026] [::1]:63092 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63093 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63094 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63095 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63095 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 19:05:29 2026] [::1]:63092 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 19:05:29 2026] [::1]:63093 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 19:05:29 2026] [::1]:63094 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 19:05:29 2026] [::1]:63095 Closing
+[Wed May  6 19:05:29 2026] [::1]:63092 Closing
+[Wed May  6 19:05:29 2026] [::1]:63093 Closing
+[Wed May  6 19:05:29 2026] [::1]:63094 Closing
+[Wed May  6 19:05:29 2026] [::1]:63096 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63097 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63097 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 19:05:29 2026] [::1]:63096 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 19:05:29 2026] [::1]:63097 Closing
+[Wed May  6 19:05:29 2026] [::1]:63096 Closing
+[Wed May  6 19:05:29 2026] [::1]:63098 Accepted
+[Wed May  6 19:05:29 2026] [::1]:63098 [404]: GET /assets/uploads/undefined - No such file or directory
+[Wed May  6 19:05:29 2026] [::1]:63098 Closing
+[Wed May  6 19:05:57 2026] [::1]:63108 Accepted
+[Wed May  6 19:05:57 2026] [::1]:63108 [200]: GET /products.php?q=
+[Wed May  6 19:05:57 2026] [::1]:63108 Closing
+[Wed May  6 19:05:58 2026] [::1]:63110 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63110 [200]: GET /assets/css/style.css?v=1778083557
+[Wed May  6 19:05:58 2026] [::1]:63110 Closing
+[Wed May  6 19:05:58 2026] [::1]:63111 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63112 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63113 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63111 [200]: GET /assets/css/theme-daylight.css
+[Wed May  6 19:05:58 2026] [::1]:63111 Closing
+[Wed May  6 19:05:58 2026] [::1]:63112 [200]: GET /assets/js/main.js
+[Wed May  6 19:05:58 2026] [::1]:63112 Closing
+[Wed May  6 19:05:58 2026] [::1]:63113 [200]: GET /assets/img/logo.png
+[Wed May  6 19:05:58 2026] [::1]:63113 Closing
+[Wed May  6 19:05:58 2026] [::1]:63114 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63114 [404]: GET /assets/uploads/undefined - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63114 Closing
+[Wed May  6 19:05:58 2026] [::1]:63115 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63115 [200]: GET /assets/uploads/img_69f1cdd0c11b86.30163719.jpg
+[Wed May  6 19:05:58 2026] [::1]:63115 Closing
+[Wed May  6 19:05:58 2026] [::1]:63116 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63117 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63118 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63119 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63116 [200]: GET /assets/uploads/img_69e277f3776e13.57870587.jpg
+[Wed May  6 19:05:58 2026] [::1]:63116 Closing
+[Wed May  6 19:05:58 2026] [::1]:63117 [200]: GET /assets/uploads/img_69e745c988bb04.38309628.png
+[Wed May  6 19:05:58 2026] [::1]:63118 [404]: GET /assets/img/noir-epice.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63119 [404]: GET /assets/img/jardin-minuit.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63118 Closing
+[Wed May  6 19:05:58 2026] [::1]:63119 Closing
+[Wed May  6 19:05:58 2026] [::1]:63117 Closing
+[Wed May  6 19:05:58 2026] [::1]:63120 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63120 [404]: GET /assets/img/mer-sel.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63120 Closing
+[Wed May  6 19:05:58 2026] [::1]:63121 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63121 [404]: GET /assets/img/cuir-royal.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63121 Closing
+[Wed May  6 19:05:58 2026] [::1]:63123 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63123 [404]: GET /assets/img/khinat-oud-special.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63123 Closing
+[Wed May  6 19:05:58 2026] [::1]:63124 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63124 [404]: GET /assets/img/khinat-rose-gold.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63124 Closing
+[Wed May  6 19:05:58 2026] [::1]:63125 Accepted
+[Wed May  6 19:05:58 2026] [::1]:63125 [404]: GET /assets/img/khinat-royal-blend.jpg - No such file or directory
+[Wed May  6 19:05:58 2026] [::1]:63125 Closing
