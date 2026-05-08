@@ -944,7 +944,7 @@ a:hover {
 .product-detail-copy h1 {
     font-family: var(--font-serif);
     font-weight: 600;
-    font-size: clamp(1.6rem, 4vw, 2.2rem);
+    font-size: clamp(1rem, 2.5vw, 1.3rem);
     margin: 0 0 0.5rem;
     color: var(--ink);
 }
