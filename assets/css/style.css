@@ -1291,11 +1291,32 @@ a:hover {
     aspect-ratio: 1;
     border-radius: 40px;
     border: 1px solid var(--border-subtle);
-    background: var(--bg-card);
+    background: #fff;
     overflow: hidden;
     box-shadow: var(--shadow-md);
     position: relative;
     transition: transform 0.5s cubic-bezier(0.2, 1, 0.3, 1);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (max-width: 768px) {
+    .product-detail-visual-wrap {
+        margin-bottom: 0.5rem;
+        position: static;
+    }
+    .product-detail-copy h1 {
+        font-size: clamp(1.8rem, 8vw, 2.5rem) !important;
+        margin-bottom: 0.5rem !important;
+        line-height: 1.1 !important;
+    }
+    .product-detail-copy {
+        padding-top: 0.5rem;
+    }
+    .product-detail {
+        padding-top: 0.5rem !important;
+    }
 }
 
 .product-detail-visual:hover {
@@ -1336,43 +1357,38 @@ a:hover {
 }
 
 .product-detail-copy h1 {
-    font-size: clamp(3.25rem, 10vw, 5.5rem);
+    font-size: clamp(1.8rem, 8vw, 2.5rem);
     font-weight: 800;
-    line-height: 0.95;
-    margin-bottom: 1.75rem;
-    letter-spacing: -0.03em;
+    line-height: 1.1;
+    margin-bottom: 1.25rem;
+    letter-spacing: -0.02em;
     color: var(--ink);
-    background: linear-gradient(135deg, var(--ink) 30%, var(--gold) 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
 }
 
 .product-notes--large {
-    font-size: 1.35rem;
+    font-size: 1.1rem;
     font-weight: 600;
     color: var(--ink);
-    margin-bottom: 2.25rem;
+    margin-bottom: 1.5rem;
     line-height: 1.4;
-    border-inline-start: 4px solid var(--gold);
-    padding-inline-start: 1.5rem;
+    border-inline-start: 3px solid var(--gold);
+    padding-inline-start: 1rem;
 }
 
 .product-detail-desc {
-    font-size: 1.15rem;
-    line-height: 1.9;
+    font-size: 1rem;
+    line-height: 1.6;
     color: var(--ink-muted);
-    margin-bottom: 3.5rem;
+    margin-bottom: 2rem;
     max-width: 40rem;
 }
 
 .product-price--large {
-    font-size: 3rem;
+    font-size: 2.2rem;
     font-weight: 900;
     color: var(--gold-bright);
-    margin-bottom: 3.5rem;
+    margin-bottom: 2rem;
     letter-spacing: -0.02em;
-    text-shadow: 0 0 30px rgba(212, 175, 55, 0.35);
 }
 
 /* Redesigned Variant Selection */
